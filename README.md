@@ -1,7 +1,7 @@
 git init
 //add file README.md to repo
 git add README.md
-
+new line on server
 git commit -m "first commit"
 //here
 //note something here.
